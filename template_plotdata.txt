@@ -1,0 +1,15 @@
+plottype
+kwargs for plot 1
+kwargs for plot 2
+....
+### "#" indicates that data is starting
+1 2 3 4 ...
+5 4 6 7 
+6 4
+....
+
+# (Optional) '#' indicates data has ended
+xlim([-1, 1])
+xlabel("x")
+....
+(Any pylab commands)
